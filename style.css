@@ -3,7 +3,7 @@ img {
   width: 300px;
   padding: 10px;
 }
-
+/* class that centers something and makes it in the shape of a circle and makes it 25% of the width of the page */ 
 .center-circle {
   border-radius: 50%; 
   display: block;
@@ -12,12 +12,12 @@ img {
   width: 25%;
 }
 
+/* h1 - h3 rules */
 h1 {
   font-size: 50px;
   margin: 0;
   text-align: center;
 }
-
 h2 {
   font-size: 30px;
   margin: 0;
@@ -29,29 +29,31 @@ h3{
   text-align: center;
 }
 
+/* paragraph, unordered list, ordered list, list item, and anchor element rules */
 p, ul, ol, li, a{
   font-size: 16px;
 }
 
+/*horizontal rule rules*/
 hr{
   width: 75%;
 }
 
-
+/*body container rules */
 body {
   font-family: "Nunito"; 
   background-color: #EDDCD2;
   box-sizing: border-box;
 }
 
-
+/* header and footer with same rules */
  header, footer {
    text-align: center;
    background: #CB997E;
    margin: 10px;
    padding: 1px;
 }  
-
+/* section and article containers with same rules*/
 section, article {
   background: #DDBEA9;
   display: block;
@@ -62,16 +64,20 @@ section, article {
   padding: 7px;
 }
 
-/* unvisited link */
-a:link, a:visited {
-  color: #A5A58D;
+/* unvisited link and visted link with the same color */
+a:link  {
+  color: #6b705c;
 }
-/* mouse over link */
+ a:visited {
+  color: #6b705c;
+}
+
+/* mouse over link with different color */
 a:hover {
   color: #CB997E;
 }
 
-/* selected link */
+/* selected link with another different color */
 a:active {
   color: #B7B7A4;
   
