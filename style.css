@@ -1,6 +1,15 @@
+/*img rules */
 img {
   width: 300px;
 }
 .image-circle {
     border-radius: 50%; 
 }
+
+
+body {font-family: Nunito;}
+
+body {background-color: #EDDCD2;
+}
+
+
