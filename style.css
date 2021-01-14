@@ -64,6 +64,7 @@ section, article {
   padding: 7px;
 }
 
+/*add pseudo-classes for the links*/
 /* unvisited link and visted link with the same color */
 a:link  {
   color: #495057;
