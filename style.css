@@ -63,21 +63,21 @@ section, article {
 
 /* unvisited link */
 a:link {
-  color: blue;
+  color: #A5A58D;
 }
 
 /* visited link */
 a:visited {
-  color: purple;
+  color: #FFF1E6;
 }
 
 /* mouse over link */
 a:hover {
-  color: green;
+  color: #CB997E;
 }
 
 /* selected link */
 a:active {
-  color: gray;
+  color: #B7B7A4;
   
 
