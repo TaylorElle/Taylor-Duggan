@@ -5,11 +5,42 @@ img {
 .image-circle {
     border-radius: 50%; 
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 33px;
+}
+h3{
+  font-size: 26px;
+
+}
+h4{font-size: }
+p ul ol li a{
+  font-size: 18px;
+}
 
 
-body {font-family: "Nunito";}
+body {font-family: Nunito;}
 
 body {background-color: #EDDCD2;
 }
 
+
+ header, footer {
+   text-align: center;
+   background: #CB997E;
+}  
+
+div{
+  background: #DDBEA9;
+}
 
