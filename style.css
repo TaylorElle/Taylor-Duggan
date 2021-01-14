@@ -32,6 +32,9 @@ p ul ol li a{
   font-size: 18px;
   margin: 0px;
 }
+hr{
+  width: 75%;
+}
 
 
 body {font-family: "Nunito";}
