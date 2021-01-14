@@ -28,7 +28,7 @@ h3{
   text-align: center;
 }
 
-p ul ol li a{
+p, ul, ol, li, a{
   font-size: 18px;
   margin: 0px;
 }
