@@ -2,10 +2,9 @@
 img {
   width: 200px;
 }
-.image-circle {
-    border-radius: 50%; 
-}
-.center {
+
+.center-circle {
+  border-radius: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
