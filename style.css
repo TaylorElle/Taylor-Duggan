@@ -66,10 +66,10 @@ section, article {
 
 /* unvisited link and visted link with the same color */
 a:link  {
-  color: #6b705c;
+  color: #495057;
 }
  a:visited {
-  color: #6b705c;
+  color: #495057;
 }
 
 /* mouse over link with different color */
