@@ -47,5 +47,9 @@ body {background-color: #EDDCD2;
 
 div{
   background: #DDBEA9;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
 }
 
